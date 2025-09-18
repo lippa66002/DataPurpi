@@ -1,4 +1,4 @@
-# 🎵 Popularity & Musical Characteristics of Songs Across Streaming Platforms
+# 🎵 Popularity & Musical Characteristics of Songs Across Streaming Platforms (Tutte Cazzate)
 
 This project investigates how **musical features** (e.g., danceability, energy, valence, tempo) influence **song popularity** across streaming platforms such as Spotify, Apple Music, Deezer, and Shazam.  
 
