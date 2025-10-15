@@ -93,17 +93,3 @@ This project integrates multiple technologies to demonstrate **scalable data pro
 - `.ipynb` notebooks → modular pipeline components, runnable independently or in sequence  
 
 ---
-
-## 📚 References
-
-- Zaharia et al., *Spark: The Definitive Guide*, O’Reilly Media, 2018  
-- Ghemawat et al., *The Google File System*, ACM, 2003  
-- Lakshman et al., *Cassandra: A Decentralized Structured Storage System*, ACM, 2010  
-- Armbrust et al., *Spark SQL: Relational Data Processing in Spark*, SIGMOD, 2015  
-
----
-
-## 🧾 License
-
-This repository was developed for the **KTH ID2221 – Data-Intensive Computing (Fall 2025)** course.  
-You are free to reuse or extend this work for **educational or research purposes**, provided proper attribution is given.
