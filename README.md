@@ -70,26 +70,21 @@ This project integrates multiple technologies to demonstrate **scalable data pro
 ## 🧩 Project Structure
 
 ```bash
-├── 01_Data_Ingestion.ipynb
-├── 02_Preprocessing.ipynb
-├── 03a_Composition_Popularity_Model.ipynb
-├── 03b_Popularity_Features.ipynb
-├── 04_Clustering.ipynb
+├── notebooks/
+│	├── 01_Data_Ingestion.ipynb
+│	├── 02_Preprocessing.ipynb
+│   ├── 03a_Composition_Popularity_Model.ipynb
+│   ├── 03b_Popularity_Features.ipynb
+│   └── 04_Clustering.ipynb
 │
 ├── data/
 │   └── spotify_dataset.csv
-│
-├── results/
-│   ├── feature_importance.csv
-│   ├── clusters_summary.csv
-│   └── visualizations/
 │
 └── README.md
 ```
 
 **Folders:**
-- `data/` → contains the raw Spotify dataset  
-- `results/` → stores feature importances, clustering results, and generated plots  
-- `.ipynb` notebooks → modular pipeline components, runnable independently or in sequence  
+- `data/` → contains the raw Spotify dataset   
+- `notebooks/` → contains modular pipeline components, runnable independently or in sequence
 
 ---
